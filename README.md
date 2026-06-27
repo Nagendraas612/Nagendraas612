@@ -1,27 +1,98 @@
-# Hi there, I'm Nagendra A.S! 👋
+<div align="center">
 
-**Looking for the Big door to knock**
+# Hi, I'm Nagendra AS 👋
 
-🚀 What I'm working on
-- **AsanaMind**: An AI Yoga Instructor that uses pose estimation to guide users through their practice.
-- **Campus Photo Finder**: A face-recognition-based tool to help students find their photos in large campus event galleries.
-- **SLR Canteen**: A full-stack web application designed to streamline canteen operations for our college Mobile Canteen.
-### 🛠 Tech Stack
+### Building modern web experiences, one project at a time.
 
-**Languages** :  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[🌐 Portfolio](https://nagendraas.vercel.app/) •
+[💼 LinkedIn](https://linkedin.com/in/nagendraas612) •
+📧 notnotseven.nags@gmail.com
 
-**Frontend** :   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database** :   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Specialties**  : 
-- 🔐 **Secure API Implementation**
-- 👁️ **Face Recognition** 
+</div>
 
 ---
-**"A jack of all trades is a master of none, but oftentimes better than a master of one."**
+
+## 👨‍💻 About Me
+
+I'm an AI & ML undergraduate at Vidyavardhaka College of Engineering with a strong interest in building modern web applications and digital experiences.
+
+I enjoy transforming ideas into functional products by combining thoughtful design, AI-assisted development, and modern web technologies. My focus is on creating responsive, user-friendly, and production-ready applications while continuously improving my skills through real-world projects.
+
+I'm currently open to **freelance opportunities** and collaborations involving websites, web applications, and custom digital solutions.
 
 ---
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagendra-as-b540a9305)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvce24cseaiml0002@vvce.ac.in)
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+A modern portfolio built with Next.js, React, TypeScript, and Sanity CMS featuring dynamic content management, smooth animations, Google Authentication, and optimized performance.
+
+🔗 https://nagendraas.vercel.app/
+
+---
+
+### 📸 FaceFetch
+An AI-powered event photo search platform that helps users quickly find their photos without manually scrolling through large image collections.
+
+---
+
+### 🪑 Seating Arrangement System
+A web application developed to simplify examination seating allocation and management for educational institutions.
+
+---
+
+## 🛠️ Technologies I've Worked With
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+
+### CMS & Database
+- Sanity CMS
+- GROQ
+- MongoDB
+
+### Authentication
+- Google OAuth
+
+### Deployment & Tools
+- Git
+- GitHub
+- Vercel
+- Render
+- VS Code
+
+---
+
+## 🎯 Current Focus
+
+- Building modern web applications
+- Creating better user experiences
+- Learning through real-world projects
+- Growing as a freelance web developer
+
+---
+
+## 🤝 Let's Connect
+
+🌐 Portfolio  
+https://nagendraas.vercel.app/
+
+💼 LinkedIn  
+https://linkedin.com/in/nagendraas612
+
+📧 Email  
+vvce24cseaiml0002@vvce.ac.in
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider checking out my repositories or connecting with me.
+
+</div>
