@@ -85,7 +85,7 @@ https://nagendraas.vercel.app/
 https://linkedin.com/in/nagendraas612
 
 📧 Email  
-vvce24cseaiml0002@vvce.ac.in
+notnotseven.nags@gmail.com
 
 ---
 
