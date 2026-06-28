@@ -6,7 +6,7 @@
 
 [🌐 Portfolio](https://nagendraas.vercel.app/) •
 [💼 LinkedIn](https://linkedin.com/in/nagendraas612) •
-📧 notnotseven.nags@gmail.com
+[📧 G-mail](nagias612@gmail.com) •
 
 </div>
 
@@ -85,7 +85,7 @@ https://nagendraas.vercel.app/
 https://linkedin.com/in/nagendraas612
 
 📧 Email  
-notnotseven.nags@gmail.com
+nagias612@gmail.com
 
 ---
 
